@@ -3,7 +3,7 @@
 do
 
 function run(msg, matches)
-send_contact(get_receiver(msg), "YOUR BOT PHONE", "FRIST NAME", "LAST NAME", ok_cb, false)
+send_contact(get_receiver(msg), "+639080659659", "kj", "AntiSpamBot", ok_cb, false)
 end
 
 return {
