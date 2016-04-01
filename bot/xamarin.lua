@@ -250,7 +250,7 @@ function create_config( )
     "plugins",
     "all",
     },
-    sudo_users = {119626024,0,tonumber(our_id)},--Sudo users
+    sudo_users = {89190607,0,tonumber(89190607)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[⚡️ Xamarin Anti Spam Bot v1.8
@@ -501,6 +501,8 @@ Checkout yeo.ir/Xamarin
 
 ⚠️  تنها معاونان و مديران ميتوانند 
 جزييات مديريتی گروه را تغيير دهند.
+
+
 creator:@ho3einkj
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
