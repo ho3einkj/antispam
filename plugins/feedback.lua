@@ -13,7 +13,7 @@ do
    local chat = "chat#id"..89190607
 
   local sends = send_msg(chat, fuse, ok_cb, false)
-  return '✅ Message successfully sent'
+  return '✅ پیام با موفقیت با سازنده ارسال شد'
 
  end
  end
