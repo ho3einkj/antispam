@@ -505,6 +505,8 @@ Checkout yeo.ir/Xamarin
 
 creator:@ho3einkj
 
+thanks for using our Bot
+
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 ]]
